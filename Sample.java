@@ -1,4 +1,4 @@
 public static void sample {
-    System.out.print("Wooooh.");
+    System.out.print("Wooooh hhhhhhh");
     
 }
